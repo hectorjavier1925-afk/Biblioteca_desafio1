@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\hecto\\OneDrive\\Escritorio\\tarea_DAW\\Biblioteca_desafio1\\Biblioteca_desafio1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{146F2180-999E-4269-81BC-C8806B59EEDC}|Biblioteca_desafio1.csproj|c:\\users\\hecto\\onedrive\\escritorio\\tarea_daw\\biblioteca_desafio1\\biblioteca_desafio1\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146F2180-999E-4269-81BC-C8806B59EEDC}|Biblioteca_desafio1.csproj|solutionrelative:libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146F2180-999E-4269-81BC-C8806B59EEDC}|Biblioteca_desafio1.csproj|c:\\users\\hecto\\onedrive\\escritorio\\tarea_daw\\biblioteca_desafio1\\biblioteca_desafio1\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146F2180-999E-4269-81BC-C8806B59EEDC}|Biblioteca_desafio1.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{146F2180-999E-4269-81BC-C8806B59EEDC}|Biblioteca_desafio1.csproj|c:\\users\\hecto\\onedrive\\escritorio\\tarea_daw\\biblioteca_desafio1\\biblioteca_desafio1\\gestionbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{146F2180-999E-4269-81BC-C8806B59EEDC}|Biblioteca_desafio1.csproj|solutionrelative:gestionbiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{146F2180-999E-4269-81BC-C8806B59EEDC}|Biblioteca_desafio1.csproj|c:\\users\\hecto\\onedrive\\escritorio\\tarea_daw\\biblioteca_desafio1\\biblioteca_desafio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{146F2180-999E-4269-81BC-C8806B59EEDC}|Biblioteca_desafio1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -14,11 +26,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestionBiblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\hecto\\OneDrive\\Escritorio\\tarea_DAW\\Biblioteca_desafio1\\Biblioteca_desafio1\\GestionBiblioteca.cs",
+              "RelativeDocumentMoniker": "GestionBiblioteca.cs",
+              "ToolTip": "C:\\Users\\hecto\\OneDrive\\Escritorio\\tarea_DAW\\Biblioteca_desafio1\\Biblioteca_desafio1\\GestionBiblioteca.cs",
+              "RelativeToolTip": "GestionBiblioteca.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:51:46.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\hecto\\OneDrive\\Escritorio\\tarea_DAW\\Biblioteca_desafio1\\Biblioteca_desafio1\\Usuario.cs",
+              "RelativeDocumentMoniker": "Usuario.cs",
+              "ToolTip": "C:\\Users\\hecto\\OneDrive\\Escritorio\\tarea_DAW\\Biblioteca_desafio1\\Biblioteca_desafio1\\Usuario.cs",
+              "RelativeToolTip": "Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:48:42.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\hecto\\OneDrive\\Escritorio\\tarea_DAW\\Biblioteca_desafio1\\Biblioteca_desafio1\\Libro.cs",
+              "RelativeDocumentMoniker": "Libro.cs",
+              "ToolTip": "C:\\Users\\hecto\\OneDrive\\Escritorio\\tarea_DAW\\Biblioteca_desafio1\\Biblioteca_desafio1\\Libro.cs",
+              "RelativeToolTip": "Libro.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T05:54:12.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\hecto\\OneDrive\\Escritorio\\tarea_DAW\\Biblioteca_desafio1\\Biblioteca_desafio1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
